@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Paul, a freshman in coding. Now, I am attending university in GuangDong province in China majored in information security. Recently, AI known as artificial intellegence appeals to me. Thus, I learnt some knowledage about Machine Learning for the past a few monthss.
-
 <!--
 **Bring633/Bring633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
